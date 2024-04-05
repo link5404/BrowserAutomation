@@ -1,3 +1,7 @@
 # Browser Automation
 
-Basic browser automation techniques for the CS-3704 Development Environments and Testing workshop.
+uncomment the close statement on the app
+jordanatanassov
+jakelehou24
+omer18
+maceorbgary
